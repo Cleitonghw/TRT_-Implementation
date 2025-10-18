@@ -1,3 +1,6 @@
 [submodule "Beartales"]
 	path = Beartales
 	url = https://github.com/Grizzlyess/Beartales.git
+[submodule "Implementa-o-5"]
+	path = Implementa-o-5
+	url = https://github.com/Cleitonghw/Implementa-o-5.git
